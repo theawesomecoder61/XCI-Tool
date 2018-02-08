@@ -10,6 +10,8 @@ XCI Tool **can not decrypt** anything. You will need the decryption key to do so
 ## Note
 Some files in the XCI files can be ***gigabytes*** in size. I implemented (this hacky solution (it works))[] for exporting them. If you do not like it, please submit an issue.
 
+Also, as of now, the code is messy. In a future release, I will organize the code.
+
 ## Thanks to
 * [Falo (on GBATemp)](https://pastebin.com/RMv2CW2H)
 * [SwitchBrew](http://switchbrew.org/index.php?title=Gamecard_Format)
