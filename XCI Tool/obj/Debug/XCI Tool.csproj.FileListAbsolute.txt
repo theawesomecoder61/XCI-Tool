@@ -1,0 +1,27 @@
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\NSWreleases.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\XCI Tool.exe.config
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\XCI Tool.exe
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\XCI Tool.pdb
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\ByteSize.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Crc32.NET.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Nito.AsyncEx.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Be.Windows.Forms.HexBox.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Crc32.NET.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Nito.AsyncEx.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\obj\Debug\XCI Tool.csprojResolveAssemblyReference.cache
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\obj\Debug\XCI_Tool.Form1.resources
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\obj\Debug\XCI_Tool.Properties.Resources.resources
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\obj\Debug\XCI Tool.csproj.GenerateResource.Cache
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\obj\Debug\XCI Tool.exe
+C:\Users\zachr\Documents\Visual Studio 2015\Projects\XCI Tool\XCI Tool\obj\Debug\XCI Tool.pdb
