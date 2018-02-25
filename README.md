@@ -17,7 +17,7 @@ You will need:
 XCI Tool **can not decrypt** anything. You will need the decryption key to do so.
 
 ## Note
-Some files in the XCI files can be ***gigabytes*** in size. I implemented (this hacky solution (hey, it works))[https://github.com/theawesomecoder61/XCI-Tool/blob/master/XCI%20Tool/Form1.cs#L102] for exporting them.
+Some files in the XCI files can be ***gigabytes*** in size. I implemented [this hacky solution (hey, it works)](https://github.com/theawesomecoder61/XCI-Tool/blob/master/XCI%20Tool/Form1.cs#L102) for exporting them.
 
 Also, as of now, the code is messy. In a future release, I will organize the code.
 
