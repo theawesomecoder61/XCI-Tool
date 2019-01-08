@@ -17,7 +17,7 @@ You will need:
 XCI Tool **can not decrypt** anything. You will need the decryption key to do so.
 
 # Sometime this month...
-XCI Tool will become deprecated in favor for a new tool called UltiSwitch. This will include an updated and more organized XCI Tool. UltiSwitch will appear on GitHub sometime March 2018. It will be awesome. 😀
+XCI Tool will become deprecated in favor for a new tool called UltiSwitch. This will include an updated and more organized XCI Tool that will not come until I finish Blacksmith, another project of mine.
 
 ## Note
 Some files in the XCI files can be ***gigabytes*** in size. I implemented [this hacky solution (hey, it works)](https://github.com/theawesomecoder61/XCI-Tool/blob/master/XCI%20Tool/Form1.cs#L102) for exporting them.
