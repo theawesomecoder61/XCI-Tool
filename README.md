@@ -16,7 +16,7 @@ You will need:
 ## Unfortunately...
 XCI Tool **can not decrypt** anything. You will need the decryption key to do so.
 
-# Sometime this month...
+## A New Tool
 XCI Tool will become deprecated in favor for a new tool called UltiSwitch. This will include an updated and more organized XCI Tool that will not come until I finish Blacksmith, another project of mine.
 
 ## Note
